@@ -8,9 +8,6 @@ Welcome to the **Agentic AI Tutorials** repository! This collection of tutorials
 - [Frameworks and Tools](#frameworks-and-tools)
 - [Vector Databases](#vector-databases)
 - [Use Cases](#use-cases)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## LLMs and Providers
 
@@ -35,7 +32,7 @@ We use the following frameworks and tools:
 - Pydantic AI
 - MLflow
 - DSpy
-- etc.
+- And others
 
 ## Vector Databases
 
@@ -64,7 +61,7 @@ Tutorials cover the following use cases:
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.12+
 - Accounts for LLM providers (OpenAI, Claude, etc.)
 - Access credentials for vector databases
 
