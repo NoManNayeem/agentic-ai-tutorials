@@ -68,7 +68,7 @@ Tutorials cover the following use cases:
 ### Installation
 
 ```bash
-git clone https://github.com/nomannayeem/agentic-ai-tutorials.git
+git clone https://github.com/NoManNayeem/agentic-ai-tutorials.git
 cd agentic-ai-tutorials
 pip install -r requirements.txt
 ```
