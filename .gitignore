@@ -67,6 +67,7 @@ dmypy.json
 .pyre/
 
 # Environment variable files (if you don't want to commit secrets)
+!.env.example
 .env
 .env.*
 .venv
