@@ -68,8 +68,7 @@ dmypy.json
 
 # Environment variable files (if you don't want to commit secrets)
 !.env.example
-.env
-.env.*
+.env\
 .venv
 
 # Editor directories and files
