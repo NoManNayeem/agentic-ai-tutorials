@@ -71,7 +71,7 @@ Tutorials cover the following use cases:
 ### Installation
 
 ```bash
-git clone https://github.com/your-repo/agentic-ai-tutorials.git
+git clone https://github.com/nomannayeem/agentic-ai-tutorials.git
 cd agentic-ai-tutorials
 pip install -r requirements.txt
 ```
@@ -85,14 +85,6 @@ OPENAI_API_KEY=your_openai_key
 GROQ_API_KEY=your_groq_key
 CLAUDE_API_KEY=your_claude_key
 # Add other provider keys as needed
-```
-
-### Running Tutorials
-
-Each tutorial is contained in the `tutorials/` directory. To run:
-
-```bash
-python tutorials/tutorial_name.py
 ```
 
 ## Contributing
