@@ -1,0 +1,7 @@
+Sample Text File
+================
+
+This is a sample text file with multiple lines of content.
+You can use it to demonstrate metadata reading and editing.
+Line 3: Hello, world!
+Line 4: Python is awesome!
